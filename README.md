@@ -4,6 +4,6 @@
 
 
 
-- I’m currently learning HTML, CSS, JS, GIT, GITHUB.
+- I’m currently learning HTML, CSS, JS, GIT, Ruby.
 - I’m Brazilian
 
