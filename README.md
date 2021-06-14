@@ -11,6 +11,7 @@
 *Currently studying*
 
 - Ruby on Rails
+- React
 
 *My goals*
 
