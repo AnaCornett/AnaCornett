@@ -18,7 +18,7 @@
 - To be an awesome developer 
 - Travel the world
 
-Linkedin - Anabele Moreno
+Linkedin - https://www.linkedin.com/in/anabele-moreno-74593b149
 
 
 
