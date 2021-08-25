@@ -12,6 +12,7 @@
 
 - Ruby on Rails
 - React
+- TypeScript
 
 *My goals*
 
