@@ -3,7 +3,6 @@
 *Five things to know about me:*
 
 - I'm currently working at TiFlux (http://www.tiflux.com/)
-- I'm a senior at high school
 - I'm Brazilian
 - I'm a beginner developer
 - I'm a 18 years old teenager learning new things
