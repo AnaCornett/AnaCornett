@@ -5,7 +5,7 @@
 - I'm currently working at TiFlux (http://www.tiflux.com/)
 - I'm Brazilian
 - I'm a beginner developer
-- I'm a 18 years old teenager learning new things
+- I'm a 19 years old teenager learning new things
 
 *Currently studying*
 
