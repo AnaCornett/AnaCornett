@@ -1,6 +1,6 @@
 ### Hey there, I'm Anabele Moreno 👋
 
-*Five things to know about me:*
+*Four things to know about me:*
 
 - I'm currently working at TiFlux (http://www.tiflux.com/)
 - I'm Brazilian
