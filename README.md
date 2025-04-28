@@ -5,6 +5,7 @@
 - I'm currently working at TiFlux since 2021 as a developer (http://www.tiflux.com/)
 - I'm Brazilian
 - Fluent in Portuguese and english, intermediate level in spanish, and trying my hand at italian
+- I completed the CS50 course (https://certificates.cs50.io/839a553d-f4ef-4926-af86-1f04a2451d46.pdf?size=letter)
 
 
 *Currently studying*
