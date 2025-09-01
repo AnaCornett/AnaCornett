@@ -9,9 +9,9 @@
 
 *My Skills*
 
-    - Programming Languages: Ruby, JavaScript, Typescript
-    - Web Development: HTML, CSS, React, Socket
-    - Tools & Technologies: Git, Docker, SQL
+- Programming Languages: Ruby, JavaScript, Typescript
+- Web Development: HTML, CSS, React, Socket
+- Tools & Technologies: Git, Docker, SQL
 
 Linkedin - https://www.linkedin.com/in/anabele-moreno-74593b149
 
