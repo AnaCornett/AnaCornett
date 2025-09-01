@@ -7,12 +7,11 @@
 - Fluent in Portuguese and english, intermediate level in spanish
 - I completed the CS50 course (https://certificates.cs50.io/839a553d-f4ef-4926-af86-1f04a2451d46.pdf?size=letter)
 
+*My Skills*
 
-*Currently studying*
-
-- Ruby on Rails
-- React
-- TypeScript
+    - Programming Languages: Ruby, JavaScript, Typescript
+    - Web Development: HTML, CSS, React, Socket
+    - Tools & Technologies: Git, Docker, SQL
 
 Linkedin - https://www.linkedin.com/in/anabele-moreno-74593b149
 
