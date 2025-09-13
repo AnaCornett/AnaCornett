@@ -15,7 +15,7 @@
 
 Linkedin - https://www.linkedin.com/in/anabele-cornett-74593b149/
 
-Portfolio - https://portfolio-1o6tt3yw0-anabele-cornetts-projects.vercel.app/
+Portfolio - https://portfolio-ana-cornett.vercel.app/
 
 
 
