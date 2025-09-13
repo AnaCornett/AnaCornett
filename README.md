@@ -13,7 +13,7 @@
 - Web Development: HTML, CSS, React, Socket
 - Tools & Technologies: Git, Docker, SQL
 
-Linkedin - https://www.linkedin.com/in/anabele-moreno-74593b149
+Linkedin - https://www.linkedin.com/in/anabele-cornett-74593b149/
 
 Portfolio - https://portfolio-1o6tt3yw0-anabele-cornetts-projects.vercel.app/
 
